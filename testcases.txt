@@ -1,0 +1,37 @@
+These are some tests you can input to test your program. If your program matches these tests, then your program works!
+
+TEST 1
+Input:
+6
+4
+3
+2
+Output:
+16
+
+TEST 2
+Input:
+4
+40
+16
+2
+Output:
+20
+
+TEST 3
+Input:
+1000
+1000
+200
+300
+Output:
+1500000
+
+TEST 4
+Input:
+4
+3
+2
+1
+Output:
+6

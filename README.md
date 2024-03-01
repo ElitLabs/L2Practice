@@ -3,7 +3,7 @@
 ## Instructions: 
 
 Farmer John has a pasture of a given length and width. He has a given number of cows on this pasture. Every $n$ square units of area on the pasture has enough grass to feed $m$ cows. 
-Given the length and width of a pasture, $n$, and $m$, calculate the total number of cows that the pasture can support.
+Given the length and width of a pasture, $n$, and $m$, **write a program that calculates the total number of cows that the pasture can support.**
 
 Input is to be given in order: length, width, $n$, $m$. Output the number of cows that the pasture can support to the console. Your output should be a whole number since fractional cows don't exist.
 
