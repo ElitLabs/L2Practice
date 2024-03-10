@@ -1,4 +1,4 @@
-# Lesson 2 Practice
+# Lesson 3 Practice
 
 ## Instructions: 
 
